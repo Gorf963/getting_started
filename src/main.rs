@@ -9,7 +9,7 @@ use piston::input::*;
 use glutin_window::GlutinWindow as Window;
 use opengl_graphics::{ GlGraphics, OpenGL };
 
-//try git push
+
 
 pub struct App {
     gl: GlGraphics, // OpenGL drawing backend.
